@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jaimemv
+- 👀 I’m interested in Machine Learning and Deep Learning
+- 📫 How to reach me: jaimemunozvillar@gmail.com & https://www.linkedin.com/in/jaimemv/
